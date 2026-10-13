@@ -1,0 +1,601 @@
+reviewId,productId,customerId,reviewText,rating
+R0001,P0087,C0035,"Battery life is amazing, but a bit heavy.",4.5
+R0002,P0110,C0027,"Not bad, but not great either.",2.0
+R0003,P0078,C0065,Terrible customer service when I had issues.,1.8
+R0004,P0052,C0054,My samzung is better.,2.0
+R0005,P0132,C0059,"Poor battery backup, need to charge daily.",1.9
+R0006,P0133,C0111,"Poor battery backup, need to charge daily.",1.3
+R0007,P0120,C0035,The keybord is clicky.,4.7
+R0008,P0016,C0067,I love my new camera!,4.1
+R0009,P0039,C0096,Terrible customer service when I had issues.,1.6
+R0010,P0017,C0082,I love my new headphone!,4.3
+R0011,P0074,C0083,"Poor battery backup, need to charge daily.",1.9
+R0012,P0104,C0031,"Good display quality, worth the price.",1.6
+R0013,P0008,C0032,Terrible customer service when I had issues.,1.8
+R0014,P0112,C0055,Great display and performance.,4.3
+R0015,P0008,C0034,The best laptop I've ever owned.,4.2
+R0016,P0011,C0093,Iphnoe is the best!,4.1
+R0017,P0022,C0041,Terrible customer service when I had issues.,2.4
+R0018,P0105,C0115,"Not bad, but not great either.",2.3
+R0019,P0102,C0108,"Excellent display, very sharp.",4.6
+R0020,P0129,C0120,"Good display quality, worth the price.",3.1
+R0021,P0149,C0100,The best monitor I've ever owned.,4.1
+R0022,P0032,C0099,Works as advertised.,2.3
+R0023,P0150,C0095,My samzung is better.,4.2
+R0024,P0061,C0120,The keybord is clicky.,1.9
+R0025,P0028,C0023,I love my new mice!,4.4
+R0026,P0066,C0111,Great display and performance.,4.4
+R0027,P0029,C0041,The keybord is clicky.,2.9
+R0028,P0064,C0036,"Excellent display, very sharp.",4.7
+R0029,P0079,C0003,Great display and performance.,4.7
+R0030,P0014,C0089,"Decent, but I expected more.",2.0
+R0031,P0099,C0040,"Not bad, but not great either.",2.0
+R0032,P0137,C0111,"Decent, but I expected more.",4.4
+R0033,P0100,C0002,My samzung is better.,4.7
+R0034,P0066,C0039,"Battery life is amazing, but a bit heavy.",4.8
+R0035,P0077,C0027,"Poor battery backup, need to charge daily.",1.9
+R0036,P0105,C0102,Great display and performance.,4.1
+R0037,P0126,C0061,The keybord is clicky.,4.7
+R0038,P0086,C0092,The keybord is clicky.,4.5
+R0039,P0026,C0106,"Poor battery backup, need to charge daily.",1.8
+R0040,P0091,C0054,Works as advertised.,2.8
+R0041,P0008,C0098,Great display and performance.,4.2
+R0042,P0114,C0102,"Excellent display, very sharp.",4.2
+R0043,P0079,C0041,"Battery life is amazing, but a bit heavy.",4.2
+R0044,P0034,C0109,The keybord is clicky.,4.2
+R0045,P0082,C0058,Iphnoe is the best!,4.1
+R0046,P0045,C0088,Works as advertised.,4.2
+R0047,P0051,C0011,The keybord is clicky.,2.5
+R0048,P0101,C0113,My samzung is better.,4.8
+R0049,P0147,C0029,"Excellent battery life, highly recommend.",4.9
+R0050,P0059,C0117,"Battery life is amazing, but a bit heavy.",4.2
+R0051,P0044,C0007,My samzung is better.,3.5
+R0052,P0067,C0020,"Battery life is amazing, but a bit heavy.",4.2
+R0053,P0146,C0016,"Excellent battery life, highly recommend.",4.4
+R0054,P0117,C0106,Iphnoe is the best!,4.7
+R0055,P0049,C0111,The best tablet I've ever owned.,4.5
+R0056,P0034,C0056,I love my new monitor!,5.0
+R0057,P0073,C0094,I love my new monitor!,4.4
+R0058,P0038,C0004,Terrible customer service when I had issues.,1.4
+R0059,P0116,C0117,"Decent, but I expected more.",2.5
+R0060,P0118,C0011,"Excellent battery life, highly recommend.",4.9
+R0061,P0102,C0088,I love my new accessorie!,4.7
+R0062,P0066,C0010,"Good display quality, worth the price.",3.2
+R0063,P0014,C0043,"Decent, but I expected more.",2.9
+R0064,P0091,C0078,Great display and performance.,4.5
+R0065,P0098,C0039,My samzung is better.,3.7
+R0066,P0034,C0115,Great display and performance.,4.3
+R0067,P0129,C0064,Works as advertised.,4.5
+R0068,P0034,C0012,Works as advertised.,3.8
+R0069,P0111,C0019,The best keyboard I've ever owned.,4.0
+R0070,P0033,C0064,The best keyboard I've ever owned.,4.9
+R0071,P0073,C0116,The best monitor I've ever owned.,4.8
+R0072,P0068,C0067,Works as advertised.,2.7
+R0073,P0043,C0041,Iphnoe is the best!,4.2
+R0074,P0113,C0007,I love my new laptop!,4.2
+R0075,P0010,C0061,The best tablet I've ever owned.,4.5
+R0076,P0030,C0115,Iphnoe is the best!,4.4
+R0077,P0144,C0063,"Love the headphnes, great sound.",3.0
+R0078,P0038,C0016,"Not bad, but not great either.",2.3
+R0079,P0047,C0107,"Poor battery backup, need to charge daily.",2.2
+R0080,P0145,C0115,I love my new accessorie!,5.0
+R0081,P0135,C0099,"Poor battery backup, need to charge daily.",1.1
+R0082,P0128,C0087,"Good display quality, worth the price.",4.5
+R0083,P0007,C0037,"Good display quality, worth the price.",2.6
+R0084,P0028,C0108,Works as advertised.,1.6
+R0085,P0021,C0059,Iphnoe is the best!,5.0
+R0086,P0002,C0043,Great display and performance.,5.0
+R0087,P0084,C0094,"Excellent display, very sharp.",4.0
+R0088,P0073,C0042,Great display and performance.,4.5
+R0089,P0098,C0012,My samzung is better.,2.0
+R0090,P0062,C0099,My samzung is better.,1.4
+R0091,P0054,C0021,My samzung is better.,4.1
+R0092,P0073,C0083,"Excellent display, very sharp.",4.5
+R0093,P0111,C0095,Terrible customer service when I had issues.,1.9
+R0094,P0092,C0086,"Good display quality, worth the price.",4.3
+R0095,P0132,C0026,Iphnoe is the best!,4.4
+R0096,P0069,C0073,The keybord is clicky.,1.4
+R0097,P0109,C0104,"Not bad, but not great either.",1.7
+R0098,P0110,C0012,Great display and performance.,5.0
+R0099,P0058,C0083,"Excellent display, very sharp.",4.5
+R0100,P0135,C0011,Terrible customer service when I had issues.,1.1
+R0101,P0123,C0039,"Excellent display, very sharp.",4.7
+R0102,P0077,C0108,"Decent, but I expected more.",3.1
+R0103,P0076,C0073,Great display and performance.,4.9
+R0104,P0132,C0014,The keybord is clicky.,2.7
+R0105,P0119,C0085,The best smart watche I've ever owned.,4.6
+R0106,P0129,C0003,"Good display quality, worth the price.",4.0
+R0107,P0119,C0023,"Poor battery backup, need to charge daily.",1.1
+R0108,P0107,C0113,Terrible customer service when I had issues.,2.1
+R0109,P0116,C0080,The best mice I've ever owned.,4.9
+R0110,P0048,C0028,"Poor battery backup, need to charge daily.",2.5
+R0111,P0067,C0112,"Good display quality, worth the price.",2.7
+R0112,P0005,C0001,My samzung is better.,1.5
+R0113,P0044,C0084,Iphnoe is the best!,4.4
+R0114,P0125,C0039,"Not bad, but not great either.",2.4
+R0115,P0102,C0103,Terrible customer service when I had issues.,1.2
+R0116,P0049,C0015,"Excellent battery life, highly recommend.",4.2
+R0117,P0007,C0027,Iphnoe is the best!,4.6
+R0118,P0112,C0108,I love my new mice!,4.8
+R0119,P0038,C0061,The keybord is clicky.,1.1
+R0120,P0043,C0116,"Excellent display, very sharp.",4.4
+R0121,P0125,C0061,"Excellent battery life, highly recommend.",4.6
+R0122,P0052,C0038,My samzung is better.,1.2
+R0123,P0003,C0014,The keybord is clicky.,4.9
+R0124,P0127,C0095,Terrible customer service when I had issues.,1.6
+R0125,P0132,C0076,Iphnoe is the best!,4.1
+R0126,P0005,C0055,Works as advertised.,3.2
+R0127,P0069,C0115,The keybord is clicky.,4.6
+R0128,P0030,C0064,"Not bad, but not great either.",1.7
+R0129,P0042,C0037,I love my new keyboard!,4.4
+R0130,P0130,C0029,Works as advertised.,4.7
+R0131,P0120,C0017,Terrible customer service when I had issues.,1.6
+R0132,P0107,C0107,"Not bad, but not great either.",2.2
+R0133,P0042,C0080,I love my new keyboard!,4.7
+R0134,P0124,C0017,"Poor battery backup, need to charge daily.",1.9
+R0135,P0026,C0102,The keybord is clicky.,4.8
+R0136,P0127,C0039,"Decent, but I expected more.",1.8
+R0137,P0013,C0003,"Not bad, but not great either.",1.5
+R0138,P0041,C0023,Great display and performance.,4.3
+R0139,P0030,C0080,"Decent, but I expected more.",1.5
+R0140,P0058,C0063,The best mice I've ever owned.,4.8
+R0141,P0012,C0099,The best tablet I've ever owned.,4.9
+R0142,P0132,C0078,"Good display quality, worth the price.",3.8
+R0143,P0113,C0103,"Love the headphnes, great sound.",4.9
+R0144,P0029,C0014,"Good display quality, worth the price.",4.3
+R0145,P0011,C0065,"Good display quality, worth the price.",1.7
+R0146,P0031,C0112,I love my new keyboard!,4.2
+R0147,P0075,C0091,"Love the headphnes, great sound.",4.0
+R0148,P0128,C0094,"Good display quality, worth the price.",1.6
+R0149,P0094,C0043,"Excellent display, very sharp.",4.2
+R0150,P0107,C0099,"Excellent battery life, highly recommend.",4.8
+R0151,P0088,C0037,"Poor battery backup, need to charge daily.",1.6
+R0152,P0107,C0047,"Decent, but I expected more.",1.6
+R0153,P0136,C0054,"Decent, but I expected more.",1.6
+R0154,P0110,C0053,The keybord is clicky.,4.6
+R0155,P0133,C0102,"Not bad, but not great either.",1.7
+R0156,P0003,C0092,"Battery life is amazing, but a bit heavy.",4.3
+R0157,P0043,C0056,Great display and performance.,4.0
+R0158,P0039,C0116,Great display and performance.,5.0
+R0159,P0134,C0038,The keybord is clicky.,2.6
+R0160,P0142,C0112,Terrible customer service when I had issues.,1.5
+R0161,P0089,C0002,The best smartphone I've ever owned.,4.6
+R0162,P0038,C0090,My samzung is better.,2.8
+R0163,P0053,C0114,"Love the headphnes, great sound.",3.8
+R0164,P0104,C0100,I love my new keyboard!,4.1
+R0165,P0138,C0043,My samzung is better.,3.9
+R0166,P0033,C0067,Terrible customer service when I had issues.,1.8
+R0167,P0080,C0067,Works as advertised.,4.0
+R0168,P0041,C0003,"Excellent battery life, highly recommend.",4.5
+R0169,P0067,C0031,Terrible customer service when I had issues.,2.5
+R0170,P0029,C0094,Great display and performance.,4.3
+R0171,P0130,C0046,"Good display quality, worth the price.",1.2
+R0172,P0032,C0058,Terrible customer service when I had issues.,1.0
+R0173,P0087,C0031,"Decent, but I expected more.",2.4
+R0174,P0073,C0086,"Excellent display, very sharp.",4.5
+R0175,P0064,C0014,Works as advertised.,3.1
+R0176,P0050,C0106,"Not bad, but not great either.",1.2
+R0177,P0109,C0107,The keybord is clicky.,1.3
+R0178,P0016,C0055,"Excellent display, very sharp.",4.4
+R0179,P0095,C0087,My samzung is better.,3.4
+R0180,P0133,C0100,My samzung is better.,4.5
+R0181,P0150,C0064,The keybord is clicky.,5.0
+R0182,P0126,C0094,The keybord is clicky.,4.3
+R0183,P0037,C0065,"Excellent display, very sharp.",4.5
+R0184,P0132,C0111,"Good display quality, worth the price.",3.8
+R0185,P0117,C0061,Great display and performance.,4.9
+R0186,P0095,C0118,"Good display quality, worth the price.",3.4
+R0187,P0105,C0015,"Good display quality, worth the price.",2.5
+R0188,P0075,C0006,"Excellent display, very sharp.",4.3
+R0189,P0096,C0039,Terrible customer service when I had issues.,2.2
+R0190,P0037,C0101,The keybord is clicky.,1.2
+R0191,P0079,C0114,Terrible customer service when I had issues.,2.2
+R0192,P0126,C0001,"Good display quality, worth the price.",3.2
+R0193,P0018,C0112,Great display and performance.,4.6
+R0194,P0145,C0058,Works as advertised.,4.1
+R0195,P0122,C0107,"Excellent display, very sharp.",4.5
+R0196,P0118,C0098,"Love the headphnes, great sound.",3.7
+R0197,P0039,C0111,Works as advertised.,1.4
+R0198,P0105,C0050,"Decent, but I expected more.",4.6
+R0199,P0087,C0070,Great display and performance.,4.9
+R0200,P0072,C0083,"Battery life is amazing, but a bit heavy.",4.7
+R0201,P0147,C0081,Terrible customer service when I had issues.,1.2
+R0202,P0144,C0011,I love my new tablet!,4.5
+R0203,P0014,C0073,I love my new smartphone!,4.5
+R0204,P0005,C0016,"Poor battery backup, need to charge daily.",1.4
+R0205,P0053,C0032,"Love the headphnes, great sound.",1.3
+R0206,P0137,C0078,Works as advertised.,2.6
+R0207,P0012,C0063,"Excellent battery life, highly recommend.",4.2
+R0208,P0007,C0111,Works as advertised.,2.5
+R0209,P0024,C0015,"Good display quality, worth the price.",3.2
+R0210,P0074,C0019,"Poor battery backup, need to charge daily.",1.1
+R0211,P0079,C0053,"Poor battery backup, need to charge daily.",2.4
+R0212,P0047,C0004,Great display and performance.,4.1
+R0213,P0037,C0053,Works as advertised.,2.0
+R0214,P0031,C0007,I love my new keyboard!,4.6
+R0215,P0061,C0064,My samzung is better.,4.8
+R0216,P0069,C0008,Works as advertised.,2.9
+R0217,P0105,C0009,Iphnoe is the best!,4.6
+R0218,P0005,C0035,"Good display quality, worth the price.",2.0
+R0219,P0143,C0084,"Excellent display, very sharp.",4.4
+R0220,P0022,C0109,I love my new tablet!,4.1
+R0221,P0139,C0022,"Decent, but I expected more.",3.2
+R0222,P0109,C0117,"Love the headphnes, great sound.",1.2
+R0223,P0119,C0107,Terrible customer service when I had issues.,1.3
+R0224,P0016,C0120,Iphnoe is the best!,4.3
+R0225,P0098,C0045,I love my new mice!,4.5
+R0226,P0012,C0021,"Battery life is amazing, but a bit heavy.",4.4
+R0227,P0032,C0107,"Excellent display, very sharp.",5.0
+R0228,P0111,C0027,Works as advertised.,4.5
+R0229,P0088,C0082,The best smartphone I've ever owned.,4.7
+R0230,P0070,C0032,Works as advertised.,2.4
+R0231,P0118,C0077,Works as advertised.,1.1
+R0232,P0035,C0083,"Excellent battery life, highly recommend.",4.0
+R0233,P0003,C0087,"Poor battery backup, need to charge daily.",2.3
+R0234,P0126,C0098,My samzung is better.,3.2
+R0235,P0020,C0069,"Excellent battery life, highly recommend.",4.8
+R0236,P0114,C0087,"Good display quality, worth the price.",2.4
+R0237,P0097,C0106,"Not bad, but not great either.",2.3
+R0238,P0003,C0016,"Love the headphnes, great sound.",2.5
+R0239,P0050,C0057,"Excellent battery life, highly recommend.",4.0
+R0240,P0072,C0088,"Not bad, but not great either.",2.2
+R0241,P0078,C0104,"Decent, but I expected more.",1.9
+R0242,P0127,C0047,Great display and performance.,4.9
+R0243,P0054,C0001,I love my new keyboard!,4.6
+R0244,P0029,C0112,The best laptop I've ever owned.,4.5
+R0245,P0142,C0025,"Poor battery backup, need to charge daily.",1.2
+R0246,P0017,C0017,The best headphone I've ever owned.,4.9
+R0247,P0134,C0094,The best monitor I've ever owned.,4.7
+R0248,P0137,C0079,The best tablet I've ever owned.,4.9
+R0249,P0001,C0055,Great display and performance.,4.3
+R0250,P0105,C0036,"Good display quality, worth the price.",3.7
+R0251,P0120,C0064,"Not bad, but not great either.",1.1
+R0252,P0058,C0007,The best mice I've ever owned.,4.5
+R0253,P0081,C0001,My samzung is better.,1.8
+R0254,P0021,C0113,"Excellent battery life, highly recommend.",4.2
+R0255,P0109,C0010,"Decent, but I expected more.",1.8
+R0256,P0085,C0040,"Battery life is amazing, but a bit heavy.",4.1
+R0257,P0123,C0056,"Excellent battery life, highly recommend.",4.6
+R0258,P0086,C0108,The best laptop I've ever owned.,4.5
+R0259,P0088,C0107,Great display and performance.,4.5
+R0260,P0061,C0010,"Love the headphnes, great sound.",4.1
+R0261,P0115,C0075,"Good display quality, worth the price.",1.3
+R0262,P0016,C0118,Great display and performance.,4.9
+R0263,P0017,C0101,"Excellent display, very sharp.",4.8
+R0264,P0015,C0039,The keybord is clicky.,1.3
+R0265,P0015,C0072,Great display and performance.,4.4
+R0266,P0025,C0080,The keybord is clicky.,1.9
+R0267,P0003,C0059,My samzung is better.,2.9
+R0268,P0110,C0113,"Good display quality, worth the price.",2.4
+R0269,P0007,C0059,Works as advertised.,3.4
+R0270,P0028,C0014,"Excellent battery life, highly recommend.",4.1
+R0271,P0050,C0116,"Excellent display, very sharp.",4.3
+R0272,P0108,C0062,"Love the headphnes, great sound.",1.7
+R0273,P0036,C0103,Great display and performance.,4.3
+R0274,P0112,C0066,"Not bad, but not great either.",2.3
+R0275,P0038,C0019,Iphnoe is the best!,4.3
+R0276,P0095,C0002,"Excellent display, very sharp.",4.5
+R0277,P0144,C0110,Great display and performance.,4.2
+R0278,P0052,C0082,I love my new camera!,4.3
+R0279,P0122,C0089,"Love the headphnes, great sound.",3.4
+R0280,P0085,C0110,Works as advertised.,3.5
+R0281,P0108,C0043,"Poor battery backup, need to charge daily.",2.3
+R0282,P0011,C0064,"Decent, but I expected more.",4.7
+R0283,P0058,C0089,"Decent, but I expected more.",2.9
+R0284,P0055,C0031,Iphnoe is the best!,5.0
+R0285,P0085,C0104,My samzung is better.,1.8
+R0286,P0048,C0106,"Excellent battery life, highly recommend.",4.1
+R0287,P0008,C0072,"Good display quality, worth the price.",1.6
+R0288,P0113,C0025,"Not bad, but not great either.",1.0
+R0289,P0051,C0037,"Poor battery backup, need to charge daily.",1.4
+R0290,P0045,C0044,"Decent, but I expected more.",1.7
+R0291,P0006,C0023,The best smartphone I've ever owned.,4.0
+R0292,P0036,C0049,"Good display quality, worth the price.",2.4
+R0293,P0054,C0040,"Love the headphnes, great sound.",2.0
+R0294,P0096,C0085,"Poor battery backup, need to charge daily.",2.5
+R0295,P0112,C0113,"Battery life is amazing, but a bit heavy.",4.9
+R0296,P0034,C0102,I love my new monitor!,4.4
+R0297,P0096,C0041,The keybord is clicky.,4.9
+R0298,P0063,C0118,Great display and performance.,4.6
+R0299,P0138,C0038,"Excellent display, very sharp.",4.1
+R0300,P0072,C0112,"Excellent display, very sharp.",5.0
+R0301,P0126,C0027,"Battery life is amazing, but a bit heavy.",4.8
+R0302,P0017,C0022,My samzung is better.,4.0
+R0303,P0131,C0048,Iphnoe is the best!,4.2
+R0304,P0096,C0068,Iphnoe is the best!,4.5
+R0305,P0069,C0075,My samzung is better.,3.6
+R0306,P0150,C0084,Great display and performance.,4.9
+R0307,P0116,C0111,"Decent, but I expected more.",2.6
+R0308,P0079,C0055,My samzung is better.,3.3
+R0309,P0096,C0033,"Battery life is amazing, but a bit heavy.",4.1
+R0310,P0114,C0067,"Not bad, but not great either.",1.1
+R0311,P0132,C0080,Works as advertised.,2.7
+R0312,P0120,C0056,The keybord is clicky.,2.5
+R0313,P0128,C0041,The best camera I've ever owned.,4.2
+R0314,P0060,C0034,"Battery life is amazing, but a bit heavy.",4.1
+R0315,P0129,C0066,"Battery life is amazing, but a bit heavy.",4.9
+R0316,P0026,C0016,"Battery life is amazing, but a bit heavy.",4.5
+R0317,P0086,C0026,Works as advertised.,2.0
+R0318,P0071,C0025,"Excellent display, very sharp.",4.8
+R0319,P0140,C0117,The best tablet I've ever owned.,4.3
+R0320,P0089,C0101,My samzung is better.,4.8
+R0321,P0149,C0097,"Excellent battery life, highly recommend.",4.5
+R0322,P0039,C0111,My samzung is better.,1.9
+R0323,P0054,C0061,"Decent, but I expected more.",3.1
+R0324,P0142,C0097,"Love the headphnes, great sound.",3.9
+R0325,P0119,C0044,"Battery life is amazing, but a bit heavy.",4.2
+R0326,P0107,C0027,"Love the headphnes, great sound.",2.8
+R0327,P0143,C0004,"Not bad, but not great either.",2.3
+R0328,P0079,C0095,"Excellent battery life, highly recommend.",4.7
+R0329,P0091,C0044,"Decent, but I expected more.",2.7
+R0330,P0104,C0098,Terrible customer service when I had issues.,1.0
+R0331,P0009,C0119,"Excellent display, very sharp.",5.0
+R0332,P0085,C0073,My samzung is better.,4.9
+R0333,P0053,C0051,"Battery life is amazing, but a bit heavy.",4.2
+R0334,P0028,C0043,"Love the headphnes, great sound.",3.6
+R0335,P0078,C0012,"Poor battery backup, need to charge daily.",1.8
+R0336,P0009,C0106,Iphnoe is the best!,4.2
+R0337,P0099,C0037,I love my new mice!,4.7
+R0338,P0018,C0059,Great display and performance.,4.0
+R0339,P0084,C0111,The keybord is clicky.,2.6
+R0340,P0029,C0017,The keybord is clicky.,2.9
+R0341,P0018,C0050,I love my new camera!,4.2
+R0342,P0111,C0105,Iphnoe is the best!,4.6
+R0343,P0080,C0076,I love my new smartphone!,4.7
+R0344,P0071,C0026,"Excellent battery life, highly recommend.",4.4
+R0345,P0103,C0078,"Decent, but I expected more.",3.1
+R0346,P0146,C0113,Iphnoe is the best!,4.6
+R0347,P0024,C0037,"Love the headphnes, great sound.",2.4
+R0348,P0077,C0051,"Poor battery backup, need to charge daily.",1.3
+R0349,P0111,C0059,My samzung is better.,4.6
+R0350,P0047,C0090,"Good display quality, worth the price.",2.6
+R0351,P0012,C0031,"Poor battery backup, need to charge daily.",1.9
+R0352,P0075,C0086,"Battery life is amazing, but a bit heavy.",4.7
+R0353,P0056,C0117,Iphnoe is the best!,4.8
+R0354,P0032,C0048,"Battery life is amazing, but a bit heavy.",4.5
+R0355,P0084,C0053,"Love the headphnes, great sound.",1.7
+R0356,P0054,C0065,Great display and performance.,4.1
+R0357,P0119,C0049,Works as advertised.,4.0
+R0358,P0050,C0051,Great display and performance.,4.1
+R0359,P0035,C0042,"Love the headphnes, great sound.",2.9
+R0360,P0018,C0011,"Decent, but I expected more.",3.9
+R0361,P0113,C0018,Iphnoe is the best!,4.8
+R0362,P0044,C0108,"Excellent battery life, highly recommend.",4.2
+R0363,P0032,C0069,My samzung is better.,1.7
+R0364,P0003,C0087,The best laptop I've ever owned.,4.4
+R0365,P0056,C0092,Great display and performance.,4.5
+R0366,P0114,C0090,Great display and performance.,4.8
+R0367,P0027,C0050,Terrible customer service when I had issues.,1.9
+R0368,P0013,C0099,My samzung is better.,4.1
+R0369,P0064,C0048,"Decent, but I expected more.",1.8
+R0370,P0005,C0054,"Excellent battery life, highly recommend.",4.3
+R0371,P0050,C0088,"Battery life is amazing, but a bit heavy.",4.9
+R0372,P0043,C0093,"Poor battery backup, need to charge daily.",1.8
+R0373,P0084,C0042,I love my new laptop!,4.9
+R0374,P0102,C0055,"Good display quality, worth the price.",1.9
+R0375,P0028,C0046,Works as advertised.,1.7
+R0376,P0103,C0084,Works as advertised.,1.0
+R0377,P0055,C0059,"Decent, but I expected more.",1.3
+R0378,P0072,C0084,"Not bad, but not great either.",2.3
+R0379,P0106,C0039,Iphnoe is the best!,4.1
+R0380,P0138,C0102,"Poor battery backup, need to charge daily.",1.1
+R0381,P0084,C0081,My samzung is better.,3.7
+R0382,P0035,C0043,"Poor battery backup, need to charge daily.",2.3
+R0383,P0082,C0109,Iphnoe is the best!,4.0
+R0384,P0150,C0058,My samzung is better.,3.0
+R0385,P0060,C0065,"Excellent battery life, highly recommend.",4.6
+R0386,P0032,C0040,"Decent, but I expected more.",4.0
+R0387,P0063,C0080,"Battery life is amazing, but a bit heavy.",4.4
+R0388,P0076,C0026,"Excellent display, very sharp.",4.6
+R0389,P0061,C0119,"Love the headphnes, great sound.",4.0
+R0390,P0085,C0018,The best tablet I've ever owned.,4.8
+R0391,P0011,C0067,The keybord is clicky.,3.6
+R0392,P0074,C0097,"Excellent battery life, highly recommend.",4.7
+R0393,P0088,C0032,I love my new smartphone!,4.9
+R0394,P0064,C0103,"Decent, but I expected more.",3.4
+R0395,P0098,C0067,Works as advertised.,1.7
+R0396,P0002,C0009,Iphnoe is the best!,4.2
+R0397,P0037,C0027,"Excellent display, very sharp.",4.6
+R0398,P0053,C0031,"Battery life is amazing, but a bit heavy.",4.5
+R0399,P0043,C0093,I love my new headphone!,4.2
+R0400,P0064,C0039,Terrible customer service when I had issues.,2.5
+R0401,P0052,C0035,Iphnoe is the best!,5.0
+R0402,P0102,C0049,"Poor battery backup, need to charge daily.",1.6
+R0403,P0111,C0098,"Excellent display, very sharp.",4.8
+R0404,P0006,C0098,My samzung is better.,2.7
+R0405,P0022,C0098,Terrible customer service when I had issues.,1.2
+R0406,P0045,C0033,My samzung is better.,2.9
+R0407,P0117,C0037,My samzung is better.,3.2
+R0408,P0124,C0010,Works as advertised.,1.5
+R0409,P0121,C0026,"Excellent display, very sharp.",4.0
+R0410,P0129,C0094,"Not bad, but not great either.",2.4
+R0411,P0102,C0096,"Not bad, but not great either.",1.5
+R0412,P0019,C0053,Great display and performance.,4.1
+R0413,P0145,C0021,I love my new accessorie!,5.0
+R0414,P0090,C0066,Iphnoe is the best!,4.4
+R0415,P0015,C0084,My samzung is better.,4.7
+R0416,P0064,C0032,Iphnoe is the best!,4.8
+R0417,P0008,C0090,"Excellent display, very sharp.",4.5
+R0418,P0038,C0033,"Decent, but I expected more.",3.4
+R0419,P0042,C0002,"Good display quality, worth the price.",4.1
+R0420,P0099,C0051,"Battery life is amazing, but a bit heavy.",4.2
+R0421,P0109,C0022,The keybord is clicky.,2.0
+R0422,P0078,C0065,My samzung is better.,3.3
+R0423,P0106,C0097,"Battery life is amazing, but a bit heavy.",4.6
+R0424,P0089,C0105,"Excellent display, very sharp.",4.2
+R0425,P0102,C0090,Terrible customer service when I had issues.,1.3
+R0426,P0126,C0001,"Good display quality, worth the price.",1.3
+R0427,P0107,C0068,The keybord is clicky.,3.6
+R0428,P0111,C0022,"Poor battery backup, need to charge daily.",2.1
+R0429,P0051,C0063,"Poor battery backup, need to charge daily.",1.2
+R0430,P0146,C0105,I love my new smartphone!,4.1
+R0431,P0047,C0104,I love my new headphone!,4.9
+R0432,P0105,C0057,"Good display quality, worth the price.",4.5
+R0433,P0043,C0011,Terrible customer service when I had issues.,1.2
+R0434,P0017,C0044,"Excellent battery life, highly recommend.",4.5
+R0435,P0026,C0002,Great display and performance.,5.0
+R0436,P0150,C0102,Great display and performance.,4.5
+R0437,P0002,C0049,The best headphone I've ever owned.,4.5
+R0438,P0087,C0078,The keybord is clicky.,2.3
+R0439,P0088,C0041,"Decent, but I expected more.",4.8
+R0440,P0103,C0049,Great display and performance.,4.9
+R0441,P0026,C0001,"Love the headphnes, great sound.",4.5
+R0442,P0103,C0093,"Excellent display, very sharp.",4.1
+R0443,P0136,C0036,"Decent, but I expected more.",2.5
+R0444,P0122,C0066,The keybord is clicky.,3.6
+R0445,P0001,C0082,Works as advertised.,1.1
+R0446,P0093,C0112,Great display and performance.,4.7
+R0447,P0114,C0030,Iphnoe is the best!,4.6
+R0448,P0021,C0045,The keybord is clicky.,4.8
+R0449,P0122,C0085,"Good display quality, worth the price.",3.9
+R0450,P0076,C0078,I love my new monitor!,4.9
+R0451,P0147,C0101,Great display and performance.,4.8
+R0452,P0078,C0107,"Love the headphnes, great sound.",1.7
+R0453,P0115,C0015,Iphnoe is the best!,4.2
+R0454,P0055,C0022,"Battery life is amazing, but a bit heavy.",5.0
+R0455,P0008,C0021,Works as advertised.,4.6
+R0456,P0072,C0029,The best keyboard I've ever owned.,5.0
+R0457,P0032,C0086,"Excellent display, very sharp.",4.6
+R0458,P0126,C0012,Works as advertised.,4.5
+R0459,P0148,C0099,"Battery life is amazing, but a bit heavy.",4.4
+R0460,P0098,C0084,The keybord is clicky.,4.2
+R0461,P0058,C0034,"Good display quality, worth the price.",2.2
+R0462,P0029,C0012,Works as advertised.,4.0
+R0463,P0049,C0096,"Good display quality, worth the price.",3.3
+R0464,P0033,C0110,Works as advertised.,4.8
+R0465,P0148,C0095,"Excellent battery life, highly recommend.",4.6
+R0466,P0049,C0109,My samzung is better.,4.9
+R0467,P0082,C0099,"Not bad, but not great either.",2.4
+R0468,P0033,C0067,"Decent, but I expected more.",1.4
+R0469,P0003,C0069,"Love the headphnes, great sound.",2.3
+R0470,P0076,C0108,"Decent, but I expected more.",3.0
+R0471,P0117,C0019,Terrible customer service when I had issues.,2.0
+R0472,P0009,C0077,Works as advertised.,2.2
+R0473,P0032,C0036,Iphnoe is the best!,4.2
+R0474,P0075,C0091,My samzung is better.,1.2
+R0475,P0086,C0020,I love my new laptop!,4.9
+R0476,P0058,C0090,Great display and performance.,4.8
+R0477,P0125,C0094,My samzung is better.,2.2
+R0478,P0041,C0003,My samzung is better.,2.3
+R0479,P0122,C0045,My samzung is better.,2.6
+R0480,P0136,C0094,Terrible customer service when I had issues.,2.4
+R0481,P0141,C0051,"Good display quality, worth the price.",1.5
+R0482,P0149,C0111,Great display and performance.,4.7
+R0483,P0118,C0084,"Poor battery backup, need to charge daily.",1.7
+R0484,P0124,C0038,"Excellent display, very sharp.",4.8
+R0485,P0051,C0095,"Excellent battery life, highly recommend.",4.9
+R0486,P0027,C0087,"Excellent display, very sharp.",5.0
+R0487,P0044,C0119,Great display and performance.,5.0
+R0488,P0046,C0007,"Good display quality, worth the price.",4.9
+R0489,P0087,C0076,The keybord is clicky.,4.9
+R0490,P0104,C0032,Great display and performance.,4.4
+R0491,P0078,C0089,"Poor battery backup, need to charge daily.",1.6
+R0492,P0023,C0100,"Love the headphnes, great sound.",4.5
+R0493,P0098,C0036,"Love the headphnes, great sound.",2.5
+R0494,P0031,C0015,"Battery life is amazing, but a bit heavy.",4.6
+R0495,P0131,C0029,"Excellent battery life, highly recommend.",5.0
+R0496,P0123,C0036,"Good display quality, worth the price.",4.2
+R0497,P0047,C0050,Iphnoe is the best!,4.7
+R0498,P0077,C0074,"Excellent display, very sharp.",4.1
+R0499,P0138,C0024,My samzung is better.,4.3
+R0500,P0006,C0051,Iphnoe is the best!,4.8
+R0501,P0138,C0092,"Good display quality, worth the price.",4.0
+R0502,P0054,C0085,"Good display quality, worth the price.",1.7
+R0503,P0047,C0001,"Love the headphnes, great sound.",4.2
+R0504,P0032,C0006,"Excellent display, very sharp.",4.7
+R0505,P0023,C0072,The best keyboard I've ever owned.,4.0
+R0506,P0032,C0065,Terrible customer service when I had issues.,1.8
+R0507,P0109,C0085,"Excellent battery life, highly recommend.",4.0
+R0508,P0133,C0116,Terrible customer service when I had issues.,1.7
+R0509,P0148,C0063,Works as advertised.,3.1
+R0510,P0091,C0078,I love my new tablet!,4.7
+R0511,P0012,C0031,Great display and performance.,4.3
+R0512,P0056,C0018,I love my new keyboard!,4.3
+R0513,P0109,C0010,The best camera I've ever owned.,4.6
+R0514,P0042,C0052,"Love the headphnes, great sound.",1.3
+R0515,P0066,C0087,The keybord is clicky.,4.8
+R0516,P0037,C0069,I love my new tablet!,4.7
+R0517,P0050,C0092,"Not bad, but not great either.",2.0
+R0518,P0131,C0078,"Poor battery backup, need to charge daily.",1.2
+R0519,P0112,C0049,"Excellent battery life, highly recommend.",4.2
+R0520,P0070,C0016,"Good display quality, worth the price.",3.7
+R0521,P0105,C0009,Works as advertised.,3.6
+R0522,P0093,C0117,Works as advertised.,4.1
+R0523,P0038,C0112,"Decent, but I expected more.",2.1
+R0524,P0026,C0049,"Decent, but I expected more.",2.5
+R0525,P0027,C0101,"Good display quality, worth the price.",1.7
+R0526,P0079,C0076,Iphnoe is the best!,4.3
+R0527,P0147,C0111,Terrible customer service when I had issues.,1.9
+R0528,P0013,C0022,Works as advertised.,4.8
+R0529,P0100,C0024,"Not bad, but not great either.",2.0
+R0530,P0137,C0071,My samzung is better.,2.9
+R0531,P0033,C0034,"Excellent battery life, highly recommend.",4.7
+R0532,P0033,C0019,My samzung is better.,3.3
+R0533,P0069,C0007,"Not bad, but not great either.",1.4
+R0534,P0108,C0091,"Love the headphnes, great sound.",1.7
+R0535,P0091,C0103,"Love the headphnes, great sound.",3.0
+R0536,P0071,C0055,"Decent, but I expected more.",2.2
+R0537,P0023,C0040,The keybord is clicky.,4.1
+R0538,P0024,C0082,"Battery life is amazing, but a bit heavy.",4.2
+R0539,P0024,C0022,Great display and performance.,4.3
+R0540,P0127,C0104,"Excellent battery life, highly recommend.",4.4
+R0541,P0131,C0120,"Excellent display, very sharp.",4.5
+R0542,P0137,C0090,"Good display quality, worth the price.",2.6
+R0543,P0049,C0117,"Excellent battery life, highly recommend.",4.7
+R0544,P0089,C0032,Great display and performance.,5.0
+R0545,P0135,C0116,"Decent, but I expected more.",1.7
+R0546,P0094,C0108,"Excellent display, very sharp.",5.0
+R0547,P0109,C0064,My samzung is better.,1.7
+R0548,P0029,C0044,"Decent, but I expected more.",4.3
+R0549,P0031,C0038,Terrible customer service when I had issues.,1.4
+R0550,P0001,C0095,My samzung is better.,1.9
+R0551,P0079,C0119,Great display and performance.,4.9
+R0552,P0125,C0008,"Not bad, but not great either.",1.7
+R0553,P0077,C0046,"Good display quality, worth the price.",1.0
+R0554,P0048,C0052,"Not bad, but not great either.",1.6
+R0555,P0051,C0011,"Excellent display, very sharp.",4.9
+R0556,P0002,C0020,The best headphone I've ever owned.,4.4
+R0557,P0077,C0047,The keybord is clicky.,4.6
+R0558,P0138,C0104,The best laptop I've ever owned.,4.4
+R0559,P0113,C0021,"Excellent display, very sharp.",4.4
+R0560,P0092,C0114,I love my new monitor!,4.3
+R0561,P0035,C0051,The keybord is clicky.,4.0
+R0562,P0009,C0021,I love my new laptop!,5.0
+R0563,P0069,C0016,The keybord is clicky.,3.0
+R0564,P0127,C0103,"Excellent display, very sharp.",4.8
+R0565,P0103,C0065,My samzung is better.,1.5
+R0566,P0028,C0102,"Excellent battery life, highly recommend.",4.3
+R0567,P0004,C0099,"Decent, but I expected more.",1.2
+R0568,P0088,C0055,"Excellent battery life, highly recommend.",4.3
+R0569,P0125,C0011,The keybord is clicky.,2.0
+R0570,P0040,C0094,"Poor battery backup, need to charge daily.",2.2
+R0571,P0068,C0090,"Decent, but I expected more.",3.7
+R0572,P0110,C0026,Iphnoe is the best!,4.8
+R0573,P0129,C0079,"Poor battery backup, need to charge daily.",2.3
+R0574,P0039,C0030,"Good display quality, worth the price.",1.5
+R0575,P0010,C0036,I love my new tablet!,4.4
+R0576,P0052,C0012,Great display and performance.,4.5
+R0577,P0060,C0029,Works as advertised.,2.7
+R0578,P0016,C0066,The keybord is clicky.,3.6
+R0579,P0078,C0015,The best mice I've ever owned.,4.9
+R0580,P0108,C0032,Works as advertised.,4.6
+R0581,P0047,C0006,"Excellent battery life, highly recommend.",4.7
+R0582,P0055,C0037,Iphnoe is the best!,4.6
+R0583,P0111,C0024,The best keyboard I've ever owned.,4.4
+R0584,P0078,C0015,"Good display quality, worth the price.",3.7
+R0585,P0142,C0099,"Excellent display, very sharp.",4.7
+R0586,P0093,C0096,"Not bad, but not great either.",1.4
+R0587,P0150,C0050,"Battery life is amazing, but a bit heavy.",4.1
+R0588,P0031,C0006,I love my new keyboard!,4.4
+R0589,P0026,C0010,Works as advertised.,2.2
+R0590,P0122,C0098,I love my new keyboard!,4.2
+R0591,P0033,C0025,The keybord is clicky.,3.2
+R0592,P0065,C0115,"Not bad, but not great either.",1.7
+R0593,P0031,C0117,The keybord is clicky.,1.3
+R0594,P0108,C0068,"Excellent battery life, highly recommend.",4.3
+R0595,P0034,C0038,Great display and performance.,4.1
+R0596,P0049,C0095,My samzung is better.,3.0
+R0597,P0137,C0112,"Battery life is amazing, but a bit heavy.",4.8
+R0598,P0099,C0072,My samzung is better.,2.6
+R0599,P0070,C0027,"Poor battery backup, need to charge daily.",1.9
+R0600,P0003,C0113,"Love the headphnes, great sound.",3.0

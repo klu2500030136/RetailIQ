@@ -1,0 +1,151 @@
+productId,name,category,description,price,rating,stock,warehouseId,salesCount
+P0001,Dell Laptop 95 Elite,Laptops,A amazing laptops with durable batery life. Highly recommended for everyday use.,205.51,3.5,308,W001,574
+P0002,Jabra Headphone 54 Slim,Headphones,A battery headphones with excellent battery life. Highly rated for gamers.,446.31,4.5,52,W001,389
+P0003,HP Laptop 45 Premium,Laptops,A excellent laptops with durable display. Highly recommended for everyday use.,600.48,4.3,453,W003,591
+P0004,Sony Headphone 6 Slim,Headphones,A great headphones with good battery life. Highly rated for gamers.,1671.53,3.3,181,W002,686
+P0005,Logitech Keyboard 78 Ultra,Keyboards,A good keyboards with amazing display. Highly rated for gamers.,1287.19,4.1,350,W003,863
+P0006,Samsung Galaxy S5 Plus,Smartphones,A great smartphones with good performance. Highly rated for students.,803.34,4.8,234,W002,271
+P0007,Samsung Tablet 96 Essential,Tablets,A durable tablets with reliable display. Highly rated for gamers.,1995.11,4.0,46,W001,881
+P0008,Lenovo Laptop 81 Ultra,Laptops,A performance laptops with reliable battery life. Highly rated for everyday use.,946.73,3.5,283,W001,696
+P0009,Asus Laptop 97 Elite,Laptops,A display laptops with great display. Highly rated for students.,1908.55,4.8,134,W005,780
+P0010,Apple Tablet 81 Elite,Tablets,A fast tablets with reliable battery life. Highly recommended for gamers.,1087.96,4.6,271,W001,613
+P0011,Apple Mice 3 Max,Mice,A battery mice with good battery life. Highly recommended for professionals.,982.25,3.1,389,W005,784
+P0012,Samsung Tablet 85 Advanced,Tablets,A amazing tablets with battery performance. Highly rated for students.,1515.42,4.4,365,W003,408
+P0013,Apple Mice 67 Advanced,Mice,A good mice with great display. Highly recommended for students.,34.23,4.4,30,W002,69
+P0014,Google Smartphone 10 Essential,Smartphones,A compact smartphones with quality battery life. Highly recommended for everyday use.,956.48,3.8,48,W001,674
+P0015,Samsung Monitor 55 Lite,Monitors,A durable monitors with excellent performance. Highly recommended for professionals.,691.81,4.7,127,W002,194
+P0016,Fujifilm Camera 18 Lite,Cameras,A quality cameras with good battery life. Highly rated for professionals.,1998.57,4.7,496,W001,948
+P0017,Bose Headphone 53 Advanced,Headphones,A performance headphones with excellent battery life. Highly rated for professionals.,545.09,4.6,232,W003,433
+P0018,Fujifilm Camera 20 Slim,Cameras,A excellent cameras with reliable performance. Highly recommended for gamers.,1176.66,4.0,436,W005,161
+P0019,Xiaomi Smartphone 11 Ultra,Smartphones,A great smartphones with compact battery life. Highly rated for professionals.,1147.95,4.2,20,W005,83
+P0020,Acer Monitor 73 Essential,Monitors,A battery monitors with good performance. Highly rated for students.,279.13,4.3,234,W003,951
+P0021,Dell Laptop 59 Premium,Laptops,A great laptops with great performance. Highly recommended for gamers.,711.03,3.1,125,W003,291
+P0022,Microsoft Tablet 70 Elite,Tablets,A compact tablets with fast battery life. Highly rated for professionals.,285.89,3.2,54,W005,159
+P0023,Razer Keyboard 78 Slim,Keyboards,A good keyboards with compact performance. Highly rated for everyday use.,1818.14,3.1,324,W004,849
+P0024,Logitech Keyboard 1 Plus,Keyboards,A compact keyboards with battery battery life. Highly rated for everyday use.,241.5,4.9,353,W002,558
+P0025,Google Smartphone 75 Essential,Smartphones,A amazing smartphones with excellent display. Highly rated for professionals.,435.94,3.5,52,W003,798
+P0026,Fujifilm Camera 80 Ultra,Cameras,A good cameras with amazing battery life. Highly rated for professionals.,1850.47,4.6,210,W002,273
+P0027,Apple Tablet 49 Pro,Tablets,A good tablets with good display. Highly rated for gamers.,1745.21,3.4,337,W002,408
+P0028,SteelSeries Mice 9 Elite,Mice,A fast mice with performance performance. Highly rated for professionals.,1941.38,3.4,492,W003,39
+P0029,Asus Laptop 56 Plus,Laptops,A display laptops with performance performance. Highly recommended for everyday use.,396.35,3.1,223,W001,532
+P0030,Canon Camera 47 Lite,Cameras,A compact cameras with display performance. Highly rated for professionals.,614.63,3.6,209,W003,412
+P0031,Keychron Keyboard 25 Lite,Keyboards,A performance keyboards with compact performance. Highly recommended for gamers.,1670.77,3.6,107,W004,804
+P0032,Spigen Accessorie 60 Advanced,Accessories,A good accessories with fast display. Highly recommended for professionals.,1334.42,4.2,47,W002,688
+P0033,Keychron Keyboard 26 Ultra,Keyboards,A good keyboards with quality performance. Highly recommended for everyday use.,1266.93,3.4,356,W004,506
+P0034,LG Monitor 19 Pro,Monitors,A great monitors with performance battery life. Highly recommended for everyday use.,513.4,4.7,233,W002,820
+P0035,Garmin Smart Watche 97 Advanced,Smart Watches,A durable smart watches with fast display. Highly rated for students.,959.85,3.5,126,W003,784
+P0036,Fujifilm Camera 81 Slim,Cameras,A great cameras with durable display. Highly recommended for gamers.,1788.18,3.2,77,W002,392
+P0037,Samsung Tablet 9 Lite,Tablets,A fast tablets with quality display. Highly recommended for students.,791.15,4.5,484,W001,877
+P0038,Apple Accessorie 62 Pro,Accessories,A battery accessories with performance display. Highly recommended for everyday use.,882.95,3.1,172,W004,741
+P0039,Microsoft Tablet 17 Premium,Tablets,A performance tablets with reliable performance. Highly recommended for professionals.,288.67,3.9,25,W003,388
+P0040,Razer Mice 59 Plus,Mice,A performance mice with battery display. Highly rated for professionals.,1503.06,3.1,487,W003,229
+P0041,Dell Laptop 97 Pro,Laptops,A good laptops with excellent performance. Highly recommended for students.,1345.52,4.1,111,W004,716
+P0042,Razer Keyboard 22 Premium,Keyboards,A durable keyboards with durable battery life. Highly recommended for gamers.,70.83,3.6,346,W004,406
+P0043,Sony Headphone 76 Slim,Headphones,A battery headphones with compact performance. Highly recommended for professionals.,868.18,3.7,259,W003,12
+P0044,Asus Monitor 14 Lite,Monitors,A compact monitors with quality performance. Highly recommended for everyday use.,1053.05,4.3,315,W005,793
+P0045,Fitbit Smart Watche 56 Premium,Smart Watches,A good smart watches with great display. Highly rated for students.,1148.29,4.3,172,W001,506
+P0046,Razer Mice 63 Slim,Mice,A battery mice with display display. Highly rated for professionals.,398.28,3.5,208,W004,568
+P0047,Apple Headphone 83 Advanced,Headphones,A excellent headphones with great display. Highly recommended for everyday use.,626.28,4.2,242,W005,543
+P0048,Apple Mice 96 Essential,Mice,A durable mice with quality display. Highly rated for gamers.,1448.13,3.6,380,W005,973
+P0049,Samsung Tablet 28 Advanced,Tablets,A reliable tablets with fast performance. Highly rated for professionals.,606.56,3.7,154,W001,725
+P0050,Canon Camera 36 Pro,Cameras,A fast cameras with battery performance. Highly recommended for everyday use.,44.28,3.6,245,W004,348
+P0051,Apple Tablet 33 Advanced,Tablets,A great tablets with performance display. Highly recommended for professionals.,1626.05,4.9,43,W002,121
+P0052,Fujifilm Camera 78 Premium,Cameras,A good cameras with fast display. Highly rated for everyday use.,1185.27,3.9,291,W005,61
+P0053,Anker Accessorie 98 Slim,Accessories,A battery accessories with compact battery life. Highly recommended for students.,168.62,3.0,230,W005,481
+P0054,Logitech Keyboard 30 Elite,Keyboards,A durable keyboards with quality battery life. Highly recommended for gamers.,1257.6,4.3,478,W002,435
+P0055,Asus Laptop 29 Ultra,Laptops,A amazing laptops with great battery life. Highly recommended for gamers.,1651.99,4.8,224,W001,479
+P0056,Corsair Keyboard 35 Essential,Keyboards,A quality keyboards with great performance. Highly recommended for everyday use.,1215.34,3.1,117,W005,601
+P0057,Google Smartphone 74 Pro,Smartphones,A amazing smartphones with quality performance. Highly rated for gamers.,1178.94,4.3,251,W001,481
+P0058,Apple Mice 43 Plus,Mice,A amazing mice with display display. Highly rated for gamers.,812.89,4.5,18,W004,90
+P0059,SteelSeries Mice 42 Max,Mice,A performance mice with fast battery life. Highly rated for everyday use.,1046.5,4.2,255,W004,778
+P0060,Samsung Galaxy S35 Essential,Smartphones,A batery smartphones with quality performence. Highly rated for professionals.,1267.43,4.6,363,W002,318
+P0061,Sony Camera 71 Lite,Cameras,A great cameras with quality battery life. Highly recommended for everyday use.,597.88,4.4,212,W004,483
+P0062,Apple Headphone 71 Ultra,Headphones,A reliable headphones with fast performance. Highly recommended for professionals.,1584.2,3.8,478,W005,273
+P0063,Google Smartphone 93 Elite,Smartphones,A reliable smartphones with compact display. Highly recommended for everyday use.,703.34,4.1,278,W004,466
+P0064,Razer Mice 90 Slim,Mice,A good mice with performance battery life. Highly rated for everyday use.,1626.58,3.8,339,W002,507
+P0065,Samsung Galaxy S65 Premium,Smartphones,A great smartphones with quality battery life. Highly rated for professionals.,831.75,4.3,79,W001,480
+P0066,Razer Keyboard 80 Lite,Keyboards,A display keyboards with compact performance. Highly rated for gamers.,1777.12,4.0,277,W001,632
+P0067,Lenovo Laptop 81 Elite,Laptops,A durable laptops with great display. Highly recommended for professionals.,1394.11,4.8,23,W003,815
+P0068,Google Smartphone 46 Plus,Smartphones,A good smartphones with fast display. Highly recommended for students.,1226.78,3.8,349,W002,509
+P0069,Belkin Accessorie 30 Advanced,Accessories,A quality accessories with battery performance. Highly recommended for everyday use.,1361.66,3.3,226,W003,601
+P0070,Corsair Keyboard 89 Elite,Keyboards,A battery keyboards with good display. Highly rated for professionals.,1152.4,4.1,358,W003,22
+P0071,Samsung Monitor 2 Premium,Monitors,A durable monitors with excellent performance. Highly rated for gamers.,475.62,4.6,112,W002,635
+P0072,Keychron Keyboard 81 Max,Keyboards,A compact keyboards with excellent display. Highly rated for professionals.,1470.06,3.2,151,W003,765
+P0073,LG Monitor 26 Ultra,Monitors,A display monitors with fast performance. Highly rated for students.,1652.88,4.0,412,W003,764
+P0074,Logitech Mice 60 Max,Mice,A good mice with compact performance. Highly rated for gamers.,801.25,3.5,63,W004,377
+P0075,Corsair Keyboard 82 Plus,Keyboards,A good keyboards with quality battery life. Highly rated for students.,1278.09,3.9,358,W003,664
+P0076,Dell Monitor 18 Pro,Monitors,A battery monitors with quality battery life. Highly recommended for students.,288.6,3.9,343,W005,429
+P0077,Belkin Accessorie 54 Max,Accessories,A reliable accessories with performance display. Highly recommended for gamers.,900.49,3.5,185,W001,702
+P0078,SteelSeries Mice 8 Lite,Mice,A great mice with quality battery life. Highly recommended for professionals.,680.34,5.0,402,W005,210
+P0079,Asus Laptop 27 Premium,Laptops,A good laptops with display battery life. Highly recommended for gamers.,306.47,3.3,128,W002,112
+P0080,Samsung Galaxy S2 Plus,Smartphones,A good smartphones with reliable display. Highly recommended for students.,270.97,3.8,58,W001,487
+P0081,Garmin Smart Watche 66 Premium,Smart Watches,A fast smart watches with good performance. Highly recommended for gamers.,1928.76,3.1,245,W004,436
+P0082,Apple Laptop 92 Advanced,Laptops,A great laptops with display performance. Highly recommended for professionals.,1256.14,4.2,364,W003,390
+P0083,Spigen Accessorie 59 Essential,Accessories,A great accessories with durable battery life. Highly recommended for everyday use.,472.41,3.7,232,W004,425
+P0084,HP Laptop 55 Plus,Laptops,A display laptops with amazing performance. Highly rated for professionals.,189.01,3.9,381,W003,831
+P0085,Apple Tablet 76 Essential,Tablets,A compact tablets with great display. Highly rated for everyday use.,1447.69,4.9,307,W003,360
+P0086,Asus Laptop 65 Slim,Laptops,A quality laptops with good battery life. Highly rated for gamers.,571.56,3.5,219,W005,997
+P0087,Anker Accessorie 78 Elite,Accessories,A batery accessories with durable disply. Highly rated for gamers.,1742.32,4.1,205,W001,145
+P0088,iPhone 96 Essential,Smartphones,A performance smartphones with quality display. Highly recommended for gamers.,662.27,4.9,305,W001,904
+P0089,Samzung Smartphone 21 Premium,Smartphones,A great smartphones with battery display. Highly rated for everyday use.,840.07,3.4,262,W001,353
+P0090,Dell Monitor 37 Premium,Monitors,A compact monitors with battery battery life. Highly recommended for everyday use.,128.46,3.4,484,W002,785
+P0091,Lenovo Tablet 38 Plus,Tablets,A quality tablets with durable display. Highly recommended for students.,1413.26,4.0,426,W003,73
+P0092,Dell Monitor 56 Pro,Monitors,A great monitors with display performance. Highly rated for everyday use.,847.02,3.2,10,W003,175
+P0093,Apple Accessorie 89 Plus,Accessories,A great accessories with good display. Highly rated for professionals.,634.33,3.7,170,W002,78
+P0094,Sony Camera 68 Essential,Cameras,A display cameras with display performance. Highly recommended for students.,526.81,3.3,78,W001,181
+P0095,Fitbit Smart Watche 97 Premium,Smart Watches,A quality smart watches with compact performance. Highly rated for gamers.,155.2,3.9,155,W003,605
+P0096,Google Smartphone 65 Max,Smartphones,A quality smartphones with excellent battery life. Highly rated for gamers.,1731.21,4.7,314,W005,519
+P0097,Asus Monitor 75 Essential,Monitors,A durable monitors with excellent display. Highly recommended for gamers.,1012.7,4.9,230,W001,830
+P0098,Logitehc Mice 65 Ultra,Mice,A durable mice with quality display. Highly recommended for gamers.,580.12,3.8,173,W005,53
+P0099,Logitech Mice 43 Max,Mice,A performance mice with battery display. Highly recommended for gamers.,1333.94,4.8,158,W004,132
+P0100,Anker Accessorie 40 Essential,Accessories,A display accessories with amazing performance. Highly recommended for everyday use.,56.09,3.6,486,W002,349
+P0101,Samsung Smart Watche 29 Ultra,Smart Watches,A battery smart watches with great performance. Highly recommended for gamers.,1243.69,4.2,78,W002,185
+P0102,Belkin Accessorie 93 Advanced,Accessories,A display accessories with compact performance. Highly recommended for everyday use.,1509.72,4.6,119,W005,244
+P0103,Corsair Keyboard 25 Plus,Keyboards,A reliable keyboards with quality display. Highly rated for everyday use.,848.94,3.3,102,W005,141
+P0104,Logitech Keyboard 83 Advanced,Keyboards,A fast keyboards with great performance. Highly recommended for gamers.,337.41,3.9,262,W002,850
+P0105,Dell Monitor 29 Advanced,Monitors,A excellent monitors with performance battery life. Highly rated for gamers.,1989.15,3.7,14,W003,953
+P0106,HP Laptop 19 Ultra,Laptops,A quality laptops with durable battery life. Highly rated for everyday use.,1813.59,3.0,110,W002,561
+P0107,Apple Accessorie 15 Elite,Accessories,A great accessories with excellent battery life. Highly rated for everyday use.,1676.63,4.0,274,W001,647
+P0108,Canon Camera 92 Ultra,Cameras,A excellent cameras with reliable display. Highly recommended for everyday use.,1343.06,4.0,184,W001,976
+P0109,Sonny Camera 50 Advanced,Cameras,A performance cameras with display display. Highly recommended for gamers.,702.7,4.5,321,W001,790
+P0110,Spigen Accessorie 18 Pro,Accessories,A display accessories with compact battery life. Highly rated for everyday use.,1626.76,3.1,397,W004,37
+P0111,Keychron Keyboard 6 Slim,Keyboards,A display keyboards with battery performance. Highly rated for everyday use.,1511.51,3.4,182,W001,886
+P0112,SteelSeries Mice 16 Plus,Mice,A performance mice with durable display. Highly rated for gamers.,1002.47,4.0,473,W005,273
+P0113,Apple Laptop 11 Lite,Laptops,A amazing laptops with fast display. Highly rated for professionals.,1328.61,3.6,308,W004,170
+P0114,Garmin Smart Watche 58 Pro,Smart Watches,A display smart watches with reliable display. Highly rated for professionals.,1282.26,3.7,410,W002,975
+P0115,Samzung Smartphone 78 Advanced,Smartphones,A great smartphones with good performance. Highly rated for gamers.,1143.13,4.2,347,W004,971
+P0116,SteelSeries Mice 57 Max,Mice,A fast mice with display display. Highly rated for gamers.,244.62,4.5,255,W005,396
+P0117,Sony Camera 34 Elite,Cameras,A good cameras with reliable display. Highly rated for students.,1708.59,3.9,460,W004,89
+P0118,SteelSeries Mice 91 Max,Mice,A battery mice with battery battery life. Highly recommended for gamers.,260.29,3.4,71,W002,809
+P0119,Apple Smart Watche 47 Essential,Smart Watches,A quality smart watches with fast battery life. Highly recommended for professionals.,1999.19,4.4,269,W004,787
+P0120,Acer Monitor 10 Ultra,Monitors,A compact monitors with great display. Highly rated for gamers.,1661.52,4.1,300,W002,786
+P0121,Microsoft Tablet 65 Pro,Tablets,A fast tablets with amazing display. Highly recommended for students.,1424.47,3.7,481,W005,916
+P0122,Logitech Keyboard 33 Slim,Keyboards,A fast keyboards with battery battery life. Highly rated for professionals.,353.89,4.9,78,W002,674
+P0123,Spigen Accessorie 73 Pro,Accessories,A excellent accessories with great battery life. Highly rated for students.,844.83,4.3,254,W005,296
+P0124,Corsair Keyboard 32 Lite,Keyboards,A great keyboards with durable battery life. Highly recommended for everyday use.,939.59,3.7,73,W003,882
+P0125,SteelSeries Mice 52 Ultra,Mice,A fast mice with fast battery life. Highly rated for students.,549.58,3.5,49,W001,297
+P0126,Acer Monitor 54 Slim,Monitors,A amazing monitors with display performance. Highly rated for students.,1006.56,4.0,255,W003,509
+P0127,iPhone 51 Essential,Smartphones,A good smartphones with good performance. Highly rated for professionals.,999.88,4.8,334,W004,292
+P0128,Sony Camera 14 Lite,Cameras,A batery cameras with durable disply. Highly rated for gamers.,121.28,4.1,185,W005,295
+P0129,Apple Laptop 65 Advanced,Laptops,A battery laptops with reliable performance. Highly recommended for students.,799.92,4.6,173,W005,961
+P0130,Razer Mice 26 Premium,Mice,A fast mice with excellent battery life. Highly recommended for students.,1611.84,4.0,76,W005,914
+P0131,Canon Camera 42 Premium,Cameras,A performance cameras with reliable performance. Highly rated for gamers.,1029.22,4.0,288,W003,486
+P0132,Google Smartphone 43 Max,Smartphones,A reliable smartphones with battery performance. Highly recommended for everyday use.,1318.06,4.9,296,W005,233
+P0133,Xiaomi Smartphone 62 Ultra,Smartphones,A durable smartphones with reliable disply. Highly recommended for students.,1897.44,3.2,9,W004,321
+P0134,LG Monitor 53 Slim,Monitors,A reliable monitors with quality performance. Highly recommended for students.,1130.55,5.0,244,W005,385
+P0135,Razer Mice 59 Essential,Mice,A display mice with compact performance. Highly rated for everyday use.,508.1,4.1,115,W003,789
+P0136,Keychron Keyboard 89 Advanced,Keyboards,A display keyboards with fast performance. Highly rated for gamers.,1359.7,3.8,202,W003,977
+P0137,Lenovo Tablet 6 Elite,Tablets,A great tablets with display display. Highly rated for everyday use.,1659.33,3.5,287,W003,140
+P0138,Asus Laptop 95 Premium,Laptops,A excellent laptops with compact performance. Highly recommended for students.,838.33,4.4,51,W002,5
+P0139,Canon Camera 53 Advanced,Cameras,A good cameras with battery display. Highly rated for professionals.,197.12,4.1,273,W001,935
+P0140,Microsoft Tablet 23 Pro,Tablets,A performence tablets with quality batery life. Highly rated for professionals.,1144.55,3.2,171,W003,465
+P0141,Fujifilm Camera 18 Essential,Cameras,A good cameras with great display. Highly recommended for everyday use.,1442.81,3.0,172,W003,581
+P0142,Bose Headphone 79 Lite,Headphones,A fast headphones with display battery life. Highly rated for professionals.,298.4,3.6,127,W001,267
+P0143,LG Monitor 58 Elite,Monitors,A battery monitors with reliable performance. Highly recommended for gamers.,1391.67,3.1,60,W004,314
+P0144,Microsoft Tablet 88 Essential,Tablets,A durable tablets with battery performance. Highly recommended for gamers.,457.27,4.9,244,W002,465
+P0145,Spigen Accessorie 54 Essential,Accessories,A fast accessories with compact battery life. Highly recommended for professionals.,1065.77,3.7,469,W005,114
+P0146,Xiaomi Smartphone 65 Slim,Smartphones,A amazing smartphones with amazing display. Highly rated for professionals.,1439.49,4.0,460,W005,456
+P0147,OnePlus Smartphone 17 Essential,Smartphones,A reliable smartphones with excellent performance. Highly rated for gamers.,803.97,4.6,381,W002,592
+P0148,Dell Laptop 55 Plus,Laptops,A fast laptops with excellent battery life. Highly rated for professionals.,376.35,3.3,328,W004,383
+P0149,Asus Monitor 49 Lite,Monitors,A compact monitors with fast battery life. Highly rated for professionals.,1083.76,4.1,372,W002,854
+P0150,iPhone 39 Advanced,Smartphones,A fast smartphones with performance performance. Highly rated for students.,705.39,3.6,479,W001,32
